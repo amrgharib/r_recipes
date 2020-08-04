@@ -2,7 +2,7 @@ library(tidyr)
 library(ggplot2)
 
 # Number of activities
-act_nums = 7
+act_nums <- 7
 
 # Ordered unique activities and components 
 acts <- c("Task 1","Task 2", "Task 3", "Task 4")
